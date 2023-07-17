@@ -1,0 +1,8 @@
+
+Andres  Betancourt;Camioneta;KIL876;2020-05-04;2020-05-22;87700
+Andres  Betancourt;Camioneta;CFR345;2020-05-12;2020-05-28;87765
+Andres  Betancourt;Camioneta;CDF565;2020-05-12;2020-05-15;454666
+Andres  Betancourt;Camioneta;FDS123;2020-05-12;2020-05-23;500000
+Andres  Betancourt;Camioneta;HBG567;2020-05-12;2020-05-23;78000
+Andres  Betancourt;Camioneta;XDS344;2020-05-12;2020-05-23;12500
+Andres  Betancourt;Camioneta;QWA324;2020-05-12;2020-05-23;36730

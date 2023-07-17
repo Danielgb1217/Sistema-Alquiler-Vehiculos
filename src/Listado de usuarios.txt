@@ -1,0 +1,7 @@
+Danielgb1217@gmail.com;throOeuOFqk=;1;Daniel;Gonzalez;1053827199;10;false;false
+d@d.com;YeuqokS72sg=;1;Andres ;Betancourt;23245654;16;false;false
+Idaly@hotmail.com;W7VZH4k5saY=;2;Idaly;Avila;23435645;25;false;true
+Aleja@umanizales.edu.co;throOeuOFqk=;2;Alejandra;Perez;2342564;23;false;true
+juliana@umanizales.edu.co;W7VZH4k5saY=;3;Juliana;Pineda;342567;33;false;true
+Dagonzalez85533@umanizales.edu.co;tvGGU7EGMDpRwBZHvRlZ+g==;1;Daniel Andres;Gonzalez Betancourt;1053827199;26;false;true
+dohko@mail.com;CzDX8pdEl10=;2;daniel;gonzalez;1053827199;29;true;true
